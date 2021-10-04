@@ -4,7 +4,7 @@ import Button from "./button";
 
 function App() {
   return (
-    <div className='App'>
+    <div>
       <header className='App-header'>
         <Button
           text='LOG IN'
